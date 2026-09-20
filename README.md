@@ -5,7 +5,8 @@
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)]()
 [![License: Unspecified](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)]()
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9.0-orange.svg)]()
-[![KMeans](https://img.shields.io/badge/Algorithm-KMeans-2ea44f.svg)]()
+[![Model - KMeans](https://img.shields.io/badge/Model-KMeans-brightgreen)](https://github.com)
+[![Model - DBSCAN](https://img.shields.io/badge/Model-DBSCAN-blue)](https://github.com)
 
 **Author:** **MD. Sakib Al Hasan** · Data Science Portfolio Project
 
