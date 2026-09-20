@@ -133,5 +133,8 @@ The dataset is published on Kaggle under the license listed on its [dataset page
 ## Contact
 
 **MD. Sakib Al Hasan** — open to discussions about customer analytics, unsupervised learning, and credit-risk applications.
+[![Email](https://img.shields.io/badge/Email-sakibzzz641%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibzzz641@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sakibzzz641-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakibzzz641-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibzzz641)
 
 [![Email](https://img.shields.io/badge/Email-sakibzzz641%40gmail.com-blue.svg)](mailto:sakibzzz641@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-sakibzzz641-181717.svg)](https://github.com/sakibzzz641) [![LinkedIn](https://img.shields.io/badge/LinkedIn-sakibzzz641-0077B5.svg)](https://www.linkedin.com/in/sakibzzz641/)
