@@ -107,11 +107,10 @@ credit-card-clustering/
 ├── notebooks/
 │   └── ds_workflow.ipynb        # full EDA + clustering, executed with outputs
 ├── models/
-│   ├── kmeans_model.pkl         # final K-Means (k=2) model
-│   ├── scaler.pkl               # fitted StandardScaler
-│   └── pca.pkl                  # fitted PCA
-├── complete-datascience-workflow-en.md   # workflow guide this project follows
-└── CC GENERAL.csv               # original raw file (as downloaded)
+    ├── kmeans_model.pkl         # final K-Means (k=2) model
+    ├── scaler.pkl               # fitted StandardScaler
+    └── pca.pkl                  # fitted PCA
+
 ```
 
 ## Environment & Reproducibility
