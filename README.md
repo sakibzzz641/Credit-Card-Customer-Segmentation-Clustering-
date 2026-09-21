@@ -3,10 +3,12 @@
 ##### Segmenting 8,950 cardholders by spending, cash-advance, and repayment behavior — then naming what each group actually looks like.
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)]()
-[![License: Unspecified](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)]()
+[![Code License: MIT](https://img.shields.io/badge/Code%20License-MIT-green.svg)](LICENSE)
+[![Data License: CC BY 4.0](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9.0-orange.svg)]()
-[![Model - KMeans](https://img.shields.io/badge/Model-KMeans-brightgreen)](https://github.com)
-[![Model - DBSCAN](https://img.shields.io/badge/Model-DBSCAN-blue)](https://github.com)
+[![Model - KMeans](https://img.shields.io/badge/Model-KMeans-brightgreen)]()
+[![Model - Hierarchical](https://img.shields.io/badge/Model-Hierarchical-yellow)]()
+[![Model - DBSCAN](https://img.shields.io/badge/Model-DBSCAN-blue)]()
 
 **Author:** **MD. Sakib Al Hasan** · Data Science Portfolio Project
 
@@ -99,18 +101,18 @@ Both groups have near-identical credit limits (~$4,450–4,530) and tenure (~11.
 ## Repository Structure
 
 ```
-credit-card-clustering/
+Customer-Segmentation-Kmeans-dbscan-clustering/
 ├── README.md                    # this file
+├── LICENSE                      # MIT license (code)
 ├── requirements.txt             # pinned package versions
 ├── data/
 │   └── CC_GENERAL.csv           # raw dataset (8,950 × 18)
 ├── notebooks/
 │   └── ds_workflow.ipynb        # full EDA + clustering, executed with outputs
-├── models/
+└── models/
     ├── kmeans_model.pkl         # final K-Means (k=2) model
     ├── scaler.pkl               # fitted StandardScaler
     └── pca.pkl                  # fitted PCA
-
 ```
 
 ## Environment & Reproducibility
@@ -127,7 +129,8 @@ The notebook reads `../data/CC_GENERAL.csv` relative to `notebooks/`, so locate 
 
 ## License
 
-The dataset is published on Kaggle under the license listed on its [dataset page](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata) (CC BY 4.0) — review the current license terms on that page before republishing the data. The analysis code in this repository may be freely reused and adapted.
+- **Code** (notebook, saved models, this README): [MIT License](LICENSE) — free to reuse and adapt.
+- **Data**: published on Kaggle under the license listed on its [dataset page](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata) (CC BY 4.0) — review the current terms there before republishing the data.
 
 ## Contact
 
